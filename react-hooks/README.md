@@ -1,0 +1,1 @@
+### 使用 hook 要关注 stale closure 问题
